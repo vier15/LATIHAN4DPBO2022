@@ -2,9 +2,9 @@
 
 Saya Raihan Fitrah V Ramadhan 2007874 mengerjakan Latihan 4 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-Repo Latihan 4 DPBO
+Program A dibuat dengan menggunakan konsep Hierarchical Inheritance di mana baik class Ship maupun Airplane keduanya termasuk ke dalam class Vehicle, sehingga atribut Vehicle dapat diwariskan kepada kedua class tersebut.
+Program B dibuat dengan menggunkana konsep Multiple Inheritance di mana class Person dan Job akan menjadi parent dari class Driver, mengapa demikian? karena seorang pengemudi itu merupakan seorang manusia yang memiliki pekerjaan maka dari itu Person dan Job menjadi parent bagi Driver yang merupakan seseorang yang memiliki pekerjaan spesifik.
 ![alt text](https://github.com/vier15/LATIHAN4DPBO2022/blob/main/desain.png)
-desc program
 
 ## Screenshoot Program A
 Vehicle
